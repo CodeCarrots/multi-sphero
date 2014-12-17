@@ -1,0 +1,1 @@
+-e git+https://github.com/arkadini/sphero_base.git#egg=sphero_base
